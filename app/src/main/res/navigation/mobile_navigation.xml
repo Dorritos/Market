@@ -7,19 +7,19 @@
 
     <fragment
         android:id="@+id/navigation_main"
-        android:name="com.dorritos.market.ui.home.CartFragment"
+        android:name="com.dorritos.market.ui.fragments.CartFragment"
         android:label="@string/title_main"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_cart"
-        android:name="com.dorritos.market.ui.dashboard.MainFragment"
+        android:name="com.dorritos.market.ui.fragments.MainFragment"
         android:label="@string/title_cart"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
-        android:id="@+id/navigation_profile"
-        android:name="com.dorritos.market.ui.notifications.ProfileFragment"
+        android:id="@+id/navigation_fav"
+        android:name="com.dorritos.market.ui.fragments.ProfileFragment"
         android:label="@string/title_profile"
         tools:layout="@layout/fragment_notifications" />
 </navigation>

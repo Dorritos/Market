@@ -1,4 +1,4 @@
-package com.dorritos.market.ui.notifications
+package com.dorritos.market.ui.viewmodels
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
