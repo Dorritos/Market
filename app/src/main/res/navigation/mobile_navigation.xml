@@ -15,11 +15,11 @@
         android:id="@+id/navigation_cart"
         android:name="com.dorritos.market.ui.fragments.MainFragment"
         android:label="@string/title_cart"
-        tools:layout="@layout/fragment_dashboard" />
+        tools:layout="@layout/fragment_cart" />
 
     <fragment
         android:id="@+id/navigation_fav"
         android:name="com.dorritos.market.ui.fragments.ProfileFragment"
         android:label="@string/title_profile"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_profile" />
 </navigation>

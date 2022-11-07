@@ -3,11 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Aidar/Market/app/src/main/res/drawable/button_rouned.xml" value="0.2335" />
+        <entry key="..\:/Users/Aidar/Market/app/src/main/res/drawable/fragment_cart.xml" value="0.2335" />
+        <entry key="..\:/Users/Aidar/Market/app/src/main/res/drawable/ic_books.xml" value="0.2335" />
+        <entry key="..\:/Users/Aidar/Market/app/src/main/res/drawable/ic_computers.xml" value="0.2335" />
         <entry key="..\:/Users/Aidar/Market/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2335" />
+        <entry key="..\:/Users/Aidar/Market/app/src/main/res/drawable/ic_health.xml" value="0.2335" />
+        <entry key="..\:/Users/Aidar/Market/app/src/main/res/drawable/ic_qr.xml" value="0.2335" />
+        <entry key="..\:/Users/Aidar/Market/app/src/main/res/drawable/ic_vector__2_.xml" value="0.2335" />
         <entry key="..\:/Users/Aidar/Market/app/src/main/res/drawable/nav_rounded.xml" value="0.2335" />
-        <entry key="..\:/Users/Aidar/Market/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/Aidar/Market/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Aidar/Market/app/src/main/res/layout/banner_item.xml" value="0.3625" />
         <entry key="..\:/Users/Aidar/Market/app/src/main/res/layout/fragment_banner.xml" value="0.3625" />
+        <entry key="..\:/Users/Aidar/Market/app/src/main/res/layout/fragment_cart.xml" value="0.3625" />
+        <entry key="..\:/Users/Aidar/Market/app/src/main/res/layout/fragment_dashboard.xml" value="0.18541666666666667" />
         <entry key="..\:/Users/Aidar/Market/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/Aidar/Market/app/src/main/res/layout/fragment_profile.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Aidar/Market/app/src/main/res/layout/item_details.xml" value="0.3625" />
+        <entry key="..\:/Users/Aidar/Market/app/src/main/res/layout/phone_item.xml" value="0.3625" />
         <entry key="..\:/Users/Aidar/Market/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3625" />
       </map>
     </option>
