@@ -15,7 +15,6 @@ class CartFragment : Fragment() {
     private val binding get() = _binding!!
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View {
-        val homeViewModel = ViewModelProvider(this)[CartViewModel::class.java]
         _binding = FragmentCartBinding.inflate(inflater, container, false)
         return binding.root
     }
