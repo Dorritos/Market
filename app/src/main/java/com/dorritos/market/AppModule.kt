@@ -3,7 +3,6 @@ package com.dorritos.market
 import com.dorritos.market.remote.ApiService
 import com.dorritos.market.remote.PhonesContract
 import com.dorritos.market.remote.PhonesServiceImpl
-import com.dorritos.market.ui.viewmodels.BannerViewModel
 import com.dorritos.market.ui.viewmodels.PhonesViewModel
 import org.koin.androidx.viewmodel.dsl.viewModel
 import org.koin.dsl.module
@@ -19,8 +18,6 @@ val appModule = module {
     single { get<Retrofit>().create(ApiService::class.java) }
 
     single {PhonesServiceImpl(get())}
-
-    viewModel { BannerViewModel(get<PhonesServiceImpl>() as PhonesContract ) }
 
     viewModel { PhonesViewModel(get<PhonesServiceImpl>() as PhonesContract ) }
 
